@@ -1,4 +1,4 @@
-# emacs-like.ahk
+# emacs-like-rightkey.ahk
 
 This script enables the use of bindings similar to emacs on Windows and is written in the AutoHotkey (AHK) language.
 

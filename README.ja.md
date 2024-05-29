@@ -1,4 +1,4 @@
-# emacs-like.ahk
+# emacs-like-rightkey.ahk
 
 このスクリプトは、Windows上でemacsのようなバインディングを使用できるようにするもので、AutoHotkey（AHK）言語で書かれています。
 
